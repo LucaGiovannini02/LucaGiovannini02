@@ -53,23 +53,25 @@
 <h1> 🧍 A Little Bit About Me and My Interests </h1>
 
 ```yaml
-name: Luca Giovannini
-located_in: Vicenza, Italy
-current_school: ITS Digital Academy Mario Volpato Full Stack Webdeveloper
-education:
-  [
+name: "Luca Giovannini",
+located_in: "Vicenza, Italy",
+current_school: "ITS Digital Academy Mario Volpato Full Stack Web Developer",
+education: [
     "Self-Taught Web Design",
     "Diploma Informatica ITIS IIS Silvio Ceccato",
-  ]
-
-fields_of_interests:
-  [
+],
+fields_of_interests: [
     "Web Development",
     "Arduino",
     "Hardware",
-  ]
-
-hobbies: ["Gaming", "Music", "Motorbike", "Art", "Sport"]
+],
+hobbies: [
+    "Gaming",
+    "Music",
+    "Motorbike",
+    "Art",
+    "Sport"
+]
 ```
 
 ---
