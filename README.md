@@ -14,7 +14,7 @@
 
 <h1> 🖥️ Technologies I Know and Use </h1>
 
-<img src="https://it.m.wikipedia.org/wiki/File:Vue.js_Logo_2.svg" width="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="50" />
 &emsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/React_Logo_SVG.svg" width="50" />
 &emsp;
@@ -22,7 +22,7 @@
 &emsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" />
 &emsp;
-<img src="https://it.m.wikipedia.org/wiki/File:Typescript_logo_2020.svg" width="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50" />
 &emsp;
 <img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/prisma_logo_icon_248778.png" width="50" />
 &emsp;
